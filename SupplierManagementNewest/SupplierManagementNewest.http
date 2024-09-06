@@ -1,0 +1,6 @@
+@SupplierManagementNewest_HostAddress = http://localhost:5042
+
+GET {{SupplierManagementNewest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
